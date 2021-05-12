@@ -1,6 +1,8 @@
-﻿*Tags: Java, JUnit, Software Testing*
+﻿*Tags: Java, Software Testing*
 
-**Create a test case/document/JUnit to test a Java program**
+Description: 
+- Designed a simple java program to calculate exponential numbers and create a test case/JUnit to test this program.
+- Tools used: *java, JUnit*
 
 **How to run JUnit Testing:**
 
